@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/aman-ruhela-644851175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-ruhela-644851175" height="30" width="40" /></a>
 <a href="https://medium.com/@amanruhela.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amanruhela.2003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amanruhela_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanruhela_2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/problemset/all/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/all/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aman_ruhela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_ruhela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
