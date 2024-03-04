@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Ruhela</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhawii&label=Profile%20views&color=0e75b6&style=flat" alt="sambhawii" /> </p>
+
 - 🔭 I’m currently working on **AWS Solution Architect certification**
 
 - 🌱 I’m currently learning **AWS**
